@@ -8,7 +8,7 @@ public class ArrayListDemo {
         al.add("Debrezeyt");
         al.add("Gonder");
         al.add("Harer");
-        System.out.println("size of array list: "+al.size()); 
+        System.out.println("\nsize of array list: "+al.size()); 
           
     }
 }
